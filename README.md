@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm a Beginner Web Developer!
 
-I'm currently learning and growing as a **web developer** with a focus on full-stack development. I have hands-on experience with a few small projects and I'm continuously working to improve my skills and build more web applications.
+I'm currently learning and growing as a **web developer** with a focus on full-stack development. Continuously working to improve my skills and build more web applications.
 
 ---
 
@@ -18,14 +18,8 @@ I'm currently learning and growing as a **web developer** with a focus on full-s
 ## 📚 What I'm Working On
 - Building more real-world projects to practice and improve my full-stack skills
 - Learning best practices in clean code, responsiveness, and performance
-- Exploring frameworks and libraries to deepen my understanding
+
 
 ---
-
-## 📫 Contact Me
-
-You can reach me via:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your.email@example.com
 
 Thanks for stopping by! 😊
