@@ -1,4 +1,4 @@
-# 🚧 Hi there, I'm a Beginner Web Developer!
+# 🚧 Hi there, I'm a Web Developer!
 
 I'm currently learning and growing as a **web developer** with a focus on full-stack development. Continuously working to improve my skills and build more web applications.
 
@@ -16,7 +16,9 @@ I'm currently learning and growing as a **web developer** with a focus on full-s
 ---
 
 ## 📚 What I'm Working On
-- Building more real-world projects to practice and improve my full-stack skills
-- Learning best practices in clean code, responsiveness, and performance
+- Building more practical projects to further hone my skills in all aspects of web development.
+- Learning best practices in clean code, responsiveness, and performance.
+  
+
 
 --
